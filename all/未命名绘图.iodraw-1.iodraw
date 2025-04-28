@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FT58YHWCugjHHsNGIVcx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FT58YHWCugjHHsNGIVcx-20" target="FT58YHWCugjHHsNGIVcx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-20" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FT58YHWCugjHHsNGIVcx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FT58YHWCugjHHsNGIVcx-21" target="FT58YHWCugjHHsNGIVcx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-21" value="选择ResNet18预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FT58YHWCugjHHsNGIVcx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FT58YHWCugjHHsNGIVcx-22" target="FT58YHWCugjHHsNGIVcx-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-22" value="加载预训练权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
@@ -28,10 +37,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-25" value="是否需要调整训练策略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="140" height="90" as="geometry" />
+          <mxGeometry x="180" y="430" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-26" value="调整学习率或优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
