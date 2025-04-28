@@ -208,8 +208,11 @@
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="380" y="950" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8oYhgtUqNQzaXQAkLz3-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="630" width="265" height="60" as="geometry" />
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-35" value="C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="630" width="615" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-36" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;系统基本框架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="385" y="650" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
