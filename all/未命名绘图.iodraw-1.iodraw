@@ -21,21 +21,21 @@
             <mxPoint x="300" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FT58YHWCugjHHsNGIVcx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FT58YHWCugjHHsNGIVcx-6">
+        <mxCell id="FT58YHWCugjHHsNGIVcx-10" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FT58YHWCugjHHsNGIVcx-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FT58YHWCugjHHsNGIVcx-10">
           <mxGeometry x="0.0186" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-6" value="是否需要清洗" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FT58YHWCugjHHsNGIVcx-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="358" width="50" height="30" as="geometry" />
+        <mxCell id="FT58YHWCugjHHsNGIVcx-12" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="358" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
