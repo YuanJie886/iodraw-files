@@ -195,8 +195,8 @@
         </mxCell>
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.005;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.719;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="198.65999999999997" y="1040" as="sourcePoint" />
-            <mxPoint x="804.9999999999999" y="1041.22" as="targetPoint" />
+            <mxPoint x="198.65999999999997" y="1070" as="sourcePoint" />
+            <mxPoint x="804.9999999999999" y="1071.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-23" value="&lt;font face=&quot;黑体&quot;&gt;图像采集与处理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-29" value="辅助功能模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="950" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-32" value="&lt;font face=&quot;黑体&quot;&gt;图像采集与处理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
