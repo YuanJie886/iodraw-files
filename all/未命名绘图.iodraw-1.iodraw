@@ -181,12 +181,7 @@
             <mxPoint x="802.5" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8oYhgtUqNQzaXQAkLz3-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8oYhgtUqNQzaXQAkLz3-14">
-          <mxGeometry x="-0.075" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P8oYhgtUqNQzaXQAkLz3-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-16" value="AI对话业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="380" y="850" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
