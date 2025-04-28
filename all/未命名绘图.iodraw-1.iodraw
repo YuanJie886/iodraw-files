@@ -7,6 +7,9 @@
         <mxCell id="FT58YHWCugjHHsNGIVcx-20" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FT58YHWCugjHHsNGIVcx-21" value="选择ResNet18预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
