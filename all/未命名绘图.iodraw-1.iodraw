@@ -31,9 +31,9 @@
             <mxPoint x="470" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FT58YHWCugjHHsNGIVcx-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FT58YHWCugjHHsNGIVcx-10">
+        <mxCell id="FT58YHWCugjHHsNGIVcx-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FT58YHWCugjHHsNGIVcx-10">
           <mxGeometry x="0.0186" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="8" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-6" value="是否需要清洗" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
