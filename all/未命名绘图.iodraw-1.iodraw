@@ -13,8 +13,8 @@
         <mxCell id="FT58YHWCugjHHsNGIVcx-2" value="网络爬虫构建数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FT58YHWCugjHHsNGIVcx-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="FT58YHWCugjHHsNGIVcx-6" value="是否需要清洗" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
