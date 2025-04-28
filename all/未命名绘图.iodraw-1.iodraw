@@ -208,8 +208,11 @@
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-29" value="辅助功能模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="950" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P8oYhgtUqNQzaXQAkLz3-32" value="&lt;font face=&quot;黑体&quot;&gt;图像采集与处理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-32" value="&lt;font face=&quot;黑体&quot;&gt;视频流处理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="360" y="1010" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-33" value="&lt;font face=&quot;黑体&quot;&gt;历史记录模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
