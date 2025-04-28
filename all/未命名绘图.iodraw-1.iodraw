@@ -205,8 +205,8 @@
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-26" value="&lt;font face=&quot;黑体&quot;&gt;模型训练与优化模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="950" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P8oYhgtUqNQzaXQAkLz3-29" value="&lt;font face=&quot;黑体&quot;&gt;辅助功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="655" y="970" width="120" height="50" as="geometry" />
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-29" value="辅助功能模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="660" y="950" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
