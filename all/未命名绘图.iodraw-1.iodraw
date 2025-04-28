@@ -41,6 +41,11 @@
             <mxPoint x="250" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FT58YHWCugjHHsNGIVcx-39" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FT58YHWCugjHHsNGIVcx-34">
+          <mxGeometry x="-0.145" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FT58YHWCugjHHsNGIVcx-25" value="是否需要调整训练策略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="140" height="90" as="geometry" />
         </mxCell>
@@ -50,7 +55,7 @@
         <mxCell id="FT58YHWCugjHHsNGIVcx-26" value="调整学习率或优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FT58YHWCugjHHsNGIVcx-37" value="调整学习率或优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FT58YHWCugjHHsNGIVcx-37" value="模型性能评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
