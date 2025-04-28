@@ -63,6 +63,9 @@
         <mxCell id="FT58YHWCugjHHsNGIVcx-37" value="模型性能评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FT58YHWCugjHHsNGIVcx-41" value="保存模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
