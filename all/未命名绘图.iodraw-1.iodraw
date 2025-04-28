@@ -157,6 +157,12 @@
         <mxCell id="P8oYhgtUqNQzaXQAkLz3-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;系统基本框架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="400" y="650" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P8oYhgtUqNQzaXQAkLz3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.004;exitY=0.235;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190.00000000000006" y="831.2199999999999" as="sourcePoint" />
+            <mxPoint x="797.56" y="830.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
