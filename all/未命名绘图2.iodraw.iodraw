@@ -29,13 +29,13 @@
           <mxGeometry x="298" y="150" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-3" value="上传照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="230" width="116" height="50" as="geometry" />
+          <mxGeometry x="298" y="220" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-5" value="识别图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="290" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-6" value="导出历史" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="350" width="116" height="50" as="geometry" />
+          <mxGeometry x="298" y="360" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-7" value="AI对话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="430" width="116" height="50" as="geometry" />
