@@ -13,8 +13,10 @@
         <mxCell id="OqPCgscQiS3Uldo1SijD-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OqPCgscQiS3Uldo1SijD-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OqPCgscQiS3Uldo1SijD-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OqPCgscQiS3Uldo1SijD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="30" height="60" as="geometry" />
