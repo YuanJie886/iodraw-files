@@ -7,7 +7,7 @@
         <mxCell id="OqPCgscQiS3Uldo1SijD-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OqPCgscQiS3Uldo1SijD-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-3">
+        <mxCell id="OqPCgscQiS3Uldo1SijD-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OqPCgscQiS3Uldo1SijD-1" target="OqPCgscQiS3Uldo1SijD-5">
@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-2" value="上传模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="170" width="116" height="50" as="geometry" />
+          <mxGeometry x="298" y="150" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-3" value="上传照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="230" width="116" height="50" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="298" y="350" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OqPCgscQiS3Uldo1SijD-7" value="AI对话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="410" width="116" height="50" as="geometry" />
+          <mxGeometry x="298" y="430" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
