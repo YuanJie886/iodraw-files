@@ -43,8 +43,8 @@
         <mxCell id="OqPCgscQiS3Uldo1SijD-7" value="AI对话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="410" width="116" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OqPCgscQiS3Uldo1SijD-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="50" height="30" as="geometry" />
+        <mxCell id="OqPCgscQiS3Uldo1SijD-17" value="水果识别系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="100" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
