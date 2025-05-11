@@ -46,9 +46,6 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-13" value="&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;主题管理  &lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="140" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;控制面板(QWidget)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="235" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;样式动态加载&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="310" width="110" height="30" as="geometry" />
         </mxCell>
