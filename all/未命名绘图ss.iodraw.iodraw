@@ -34,10 +34,10 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-9" value="主窗口(MainWindow)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="210" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.294;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.294;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z-dkr5yi47ZbRKAbg2k2-3" target="Z-dkr5yi47ZbRKAbg2k2-3">
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.294;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z-dkr5yi47ZbRKAbg2k2-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="250" as="sourcePoint" />
-            <mxPoint x="320" y="200" as="targetPoint" />
+            <mxPoint x="293" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
