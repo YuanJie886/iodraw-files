@@ -197,7 +197,7 @@
           <mxGeometry x="27.65977443609023" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-357" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="340" width="560" height="153" as="geometry" />
+          <mxGeometry x="80" y="330" width="560" height="153" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry y="4.069148936170213" width="560" height="148.93085106382978" as="geometry" />
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-97" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;控制面板&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-95">
           <mxGeometry x="4.374999999999999" y="0.7894736842105262" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-dkr5yi47ZbRKAbg2k2-2" target="Z-dkr5yi47ZbRKAbg2k2-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
