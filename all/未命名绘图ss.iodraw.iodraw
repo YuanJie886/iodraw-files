@@ -65,7 +65,7 @@
           <mxGeometry width="119.54887218045111" height="26.84210526315789" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-304" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;自动标注工具&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-302">
-          <mxGeometry x="14.071898496240602" width="110" height="30" as="geometry" />
+          <mxGeometry x="8.071898496240602" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-305" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-266">
           <mxGeometry x="174.34210526315786" y="80.52631578947367" width="122.03947368421052" height="37.64157894736842" as="geometry" />
