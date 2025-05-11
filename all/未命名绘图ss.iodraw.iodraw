@@ -130,6 +130,9 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型推理引擎&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ONNX Runtime&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
