@@ -148,6 +148,15 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;样式动态加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-65">
           <mxGeometry x="-10" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-68">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-70" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;事件处理系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-68">
+          <mxGeometry x="-10" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
