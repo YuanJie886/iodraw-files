@@ -152,7 +152,7 @@
           <mxGeometry width="117.82096751312244" height="23.93351800554016" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-329" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Anaconda&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
-          <mxGeometry x="10.459621932188963" y="-2" width="90" height="30" as="geometry" />
+          <mxGeometry x="14.459621932188963" y="-3" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-330" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="171.82224428997017" y="71.80055401662048" width="120.27557100297913" height="33.56277008310249" as="geometry" />
@@ -179,13 +179,13 @@
           <mxGeometry x="371.24999999999994" y="29.47368421052632" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-337" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-311">
-          <mxGeometry x="172.74671052631578" y="58.94736842105264" width="142.10526315789474" height="25.263157894736842" as="geometry" />
+          <mxGeometry x="165.74671052631578" y="58.94736842105264" width="142.10526315789474" height="25.263157894736842" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-338" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-337">
-          <mxGeometry width="121.80451127819552" height="25.263157894736842" as="geometry" />
+          <mxGeometry x="-1" width="121.80451127819552" height="25.263157894736842" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-339" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PyCharm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-337">
-          <mxGeometry x="27.65977443609023" width="80" height="30" as="geometry" />
+          <mxGeometry x="26.65977443609023" y="-2" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-357" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="320" width="560" height="153" as="geometry" />
