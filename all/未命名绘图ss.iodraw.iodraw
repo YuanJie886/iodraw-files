@@ -392,7 +392,7 @@
           <mxGeometry width="78.74999999999999" height="23.684210526315788" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-97" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;控制面板&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-95">
-          <mxGeometry x="4.374999999999999" y="0.7894736842105262" width="80" height="30" as="geometry" />
+          <mxGeometry x="0.3749999999999991" y="-1.210526315789474" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-361" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.445;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="Z-dkr5yi47ZbRKAbg2k2-33" target="Z-dkr5yi47ZbRKAbg2k2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
