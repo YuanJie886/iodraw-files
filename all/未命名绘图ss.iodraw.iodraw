@@ -142,11 +142,8 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多主题切换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-63">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多主题切换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="737" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-65">
           <mxGeometry width="90" height="30" as="geometry" />
