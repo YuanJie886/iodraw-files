@@ -121,6 +121,9 @@
             <mxPoint x="675" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-43" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
