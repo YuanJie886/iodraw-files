@@ -173,7 +173,7 @@
           <mxGeometry width="115.2" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-100" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ONNX Runtime&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-98">
-          <mxGeometry x="-19.2" width="120" height="30" as="geometry" />
+          <mxGeometry x="-4.199999999999999" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
