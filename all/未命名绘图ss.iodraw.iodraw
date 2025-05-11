@@ -140,10 +140,10 @@
           <mxGeometry x="-145.19" y="65.42" width="155.19" height="17.55" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-322" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PyTorch 2.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-321">
-          <mxGeometry x="-9.905744680851065" y="-9.945" width="100" height="30" as="geometry" />
+          <mxGeometry x="-12.905744680851065" y="-9.945" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-326" value="ONNX Runtime" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-148.2" y="111.69" width="98.2" height="23.93" as="geometry" />
+          <mxGeometry x="-157.2" y="111.69" width="98.2" height="23.93" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-327" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="-16.666757696127092" y="94.73407202216065" width="137.45779543197617" height="23.93351800554016" as="geometry" />
