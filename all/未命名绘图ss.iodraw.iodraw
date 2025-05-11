@@ -344,10 +344,10 @@
           <mxGeometry x="-170.5" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-321" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-169" y="82" width="80" height="22" as="geometry" />
+          <mxGeometry x="-169" y="82" width="94" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-322" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OpenCV&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-321">
-          <mxGeometry x="4" y="-12.466666666666665" width="80" height="30" as="geometry" />
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-322" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PyTorch 2.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-321">
+          <mxGeometry x="-6" y="-12.466666666666665" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-323" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="-169.5" y="106" width="122.5" height="29" as="geometry" />
