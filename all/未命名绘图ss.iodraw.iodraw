@@ -143,7 +143,7 @@
           <mxGeometry x="-9.905744680851065" y="-9.945" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-326" value="ONNX Runtime" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-148.1966857000993" y="111.68975069252075" width="81.18601042701093" height="23.93351800554016" as="geometry" />
+          <mxGeometry x="-148.2" y="111.69" width="98.2" height="23.93" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-327" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="-16.666757696127092" y="94.73407202216065" width="137.45779543197617" height="23.93351800554016" as="geometry" />
@@ -413,7 +413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-323" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="146.89644736842104" y="771.5699999999999" width="135.62" height="25.59" as="geometry" />
+          <mxGeometry x="144.89644736842104" y="771.5699999999999" width="135.62" height="25.59" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-324" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
           <mxGeometry width="97.6464" height="23.139287305122497" as="geometry" />
