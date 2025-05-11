@@ -31,7 +31,7 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-8" value="主窗口(MainWindow)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-9" value="主窗口(MainWindow)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-9" value="视频显示组件(QLable)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.294;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z-dkr5yi47ZbRKAbg2k2-3">
@@ -46,8 +46,8 @@
             <mxPoint x="530" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-13" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(255, 255, 255); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;主题管理  &lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="140" width="120" height="50" as="geometry" />
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-13" value="&lt;p&gt;主题管理  &lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
