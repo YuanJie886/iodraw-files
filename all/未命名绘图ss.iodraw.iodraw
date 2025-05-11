@@ -28,6 +28,9 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-7" value="用户界面层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-8" value="主窗口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
