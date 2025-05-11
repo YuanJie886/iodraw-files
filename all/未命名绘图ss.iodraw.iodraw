@@ -142,15 +142,6 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-322" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PyTorch 2.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-321">
           <mxGeometry x="-9.905744680851065" y="-9.945" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-323" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-145.61935203574976" y="84.56509695290858" width="105.24112462760674" height="25.58607043925603" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-324" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
-          <mxGeometry width="75.77360973187685" height="23.13573407202216" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-325" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CUDA 11.8&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
-          <mxGeometry x="0.8654282157252178" y="1.6525524337158686" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-326" value="ONNX Runtime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="-148.1966857000993" y="111.68975069252075" width="81.18601042701093" height="23.93351800554016" as="geometry" />
         </mxCell>
@@ -179,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-334" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;深度学习环境&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-311">
-          <mxGeometry x="24.868421052631575" y="32" width="110" height="30" as="geometry" />
+          <mxGeometry x="22.868421052631575" y="28" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-335" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开发工具链&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-311">
           <mxGeometry x="188.2894736842105" y="31.157894736842106" width="90" height="30" as="geometry" />
@@ -420,6 +411,15 @@
             <mxPoint x="359.75" y="687" as="sourcePoint" />
             <mxPoint x="359.75" y="665" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-323" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="146.89644736842104" y="771.5699999999999" width="135.62" height="25.59" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-324" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
+          <mxGeometry width="97.6464" height="23.139287305122497" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-325" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CUDA 11.8&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
+          <mxGeometry x="1.1152424969988" y="1.6528062360801783" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
