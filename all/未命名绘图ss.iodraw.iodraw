@@ -278,7 +278,7 @@
           <mxGeometry y="-2.441489361702128" width="78.87323943661971" height="24.414893617021278" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-118" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;API集成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-116">
-          <mxGeometry x="8.763693270735523" y="-0.8138297872340426" width="70" height="30" as="geometry" />
+          <mxGeometry x="7.763693270735523" y="-3.8138297872340425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-120" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry x="402.2535211267605" y="108.23936170212765" width="87.63693270735523" height="24.414893617021278" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry width="78.87323943661971" height="24.414893617021278" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-122" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;建议生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-120">
-          <mxGeometry x="4.381846635367761" y="-1.6276595744680853" width="80" height="30" as="geometry" />
+          <mxGeometry x="0.3818466353677614" y="-1.6276595744680853" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-358" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="150" width="560" height="150" as="geometry" />
