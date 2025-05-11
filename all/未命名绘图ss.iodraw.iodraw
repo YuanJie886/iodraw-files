@@ -367,8 +367,8 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-328" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
           <mxGeometry width="137.14285714285714" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-329" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;自动标注工具&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
-          <mxGeometry x="16.142857142857146" width="110" height="30" as="geometry" />
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-329" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Anaconda&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
+          <mxGeometry x="26.142857142857146" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-330" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="200" y="90" width="140" height="42.07" as="geometry" />
