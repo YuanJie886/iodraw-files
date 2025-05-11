@@ -19,9 +19,9 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-266">
           <mxGeometry x="-210" y="34" width="565" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-250" value="" style="endArrow=none;html=1;rounded=0;exitX=0.311;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.313;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Z-dkr5yi47ZbRKAbg2k2-248" target="Z-dkr5yi47ZbRKAbg2k2-248" parent="Z-dkr5yi47ZbRKAbg2k2-266">
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-250" value="" style="endArrow=none;html=1;rounded=0;entryX=0.313;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="Z-dkr5yi47ZbRKAbg2k2-248" parent="Z-dkr5yi47ZbRKAbg2k2-266">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-32.5" y="170" as="sourcePoint" />
+            <mxPoint x="-34" y="171" as="sourcePoint" />
             <mxPoint x="-36.5" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
