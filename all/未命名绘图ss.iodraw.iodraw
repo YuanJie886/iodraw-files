@@ -233,7 +233,7 @@
           <mxGeometry y="-24.414893617021278" width="78.87323943661971" height="24.414893617021278" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PyTorch&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-101">
-          <mxGeometry x="8.763693270735523" y="-24.414893617021278" width="70" height="30" as="geometry" />
+          <mxGeometry x="5.763693270735523" y="-27.414893617021278" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-104" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry x="60.469483568075105" y="93.59042553191489" width="148.9827856025039" height="24.414893617021278" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry width="107.26760563380282" height="24.414893617021278" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-106" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ONNX Runtime&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-104">
-          <mxGeometry x="0.5258215962441296" width="120" height="30" as="geometry" />
+          <mxGeometry x="-5.474178403755871" y="-1" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-107" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry x="216.02503912363062" y="61.03723404255319" width="140.21909233176837" height="24.414893617021278" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry width="120.18779342723003" height="24.414893617021278" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-109" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;QThread多线程&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-107">
-          <mxGeometry x="1.765258215962442" y="-3" width="120" height="30" as="geometry" />
+          <mxGeometry x="1.765258215962442" y="-2" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-110" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry x="222.59780907668227" y="93.59042553191489" width="148.9827856025039" height="24.414893617021278" as="geometry" />
