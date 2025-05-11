@@ -8,7 +8,7 @@
           <mxGeometry x="130" y="495" width="530" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-266" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-308">
-          <mxGeometry x="183.4950657894736" width="346.5049342105262" height="170" as="geometry" />
+          <mxGeometry x="182.4950657894736" width="346.5049342105262" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-267" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-266">
           <mxGeometry width="106.69736842105259" height="26.84210526315789" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="-148.62664473684202" y="62.63157894736842" width="78.45394736842101" height="26.84210526315789" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-257" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-266">
-          <mxGeometry x="-147.31907894736835" y="73.36842105263156" width="69.73684210526314" height="19.68421052631579" as="geometry" />
+          <mxGeometry x="-152.31907894736835" y="72.36842105263156" width="69.73684210526314" height="19.68421052631579" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-259" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OpenCV&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-257">
           <mxGeometry x="3.4868421052631566" y="-11.154385964912278" width="80" height="30" as="geometry" />
