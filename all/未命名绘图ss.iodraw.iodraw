@@ -101,7 +101,7 @@
           <mxGeometry x="1.0874464285714318" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-311" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="118" y="687" width="540" height="160" as="geometry" />
+          <mxGeometry x="120" y="687" width="540" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-312" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-311">
           <mxGeometry x="182.51644736842107" width="341.4967105263157" height="151.57894736842104" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="-9.905744680851065" y="-9.945" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-326" value="ONNX Runtime" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-148.2" y="111.69" width="98.2" height="23.93" as="geometry" />
+          <mxGeometry x="-148.1966857000993" y="111.68975069252075" width="81.18601042701093" height="23.93351800554016" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-327" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="-16.666757696127092" y="94.73407202216065" width="137.45779543197617" height="23.93351800554016" as="geometry" />
