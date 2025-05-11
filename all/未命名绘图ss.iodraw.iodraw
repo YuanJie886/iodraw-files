@@ -218,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型推理引擎&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-357">
-          <mxGeometry x="69.23317683881062" y="29.29787234042553" width="110" height="30" as="geometry" />
+          <mxGeometry x="58.23317683881062" y="27.29787234042553" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视频处理线程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-357">
           <mxGeometry x="221.72143974960872" y="26.856382978723403" width="110" height="30" as="geometry" />
