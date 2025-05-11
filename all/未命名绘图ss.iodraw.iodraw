@@ -44,10 +44,10 @@
           <mxGeometry x="-152.31907894736835" y="72.36842105263156" width="69.73684210526314" height="19.68421052631579" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-259" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OpenCV&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-257">
-          <mxGeometry x="-3.5131578947368434" y="-11.154385964912278" width="80" height="30" as="geometry" />
+          <mxGeometry x="1.4868421052631566" y="-12.154385964912278" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-260" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-266">
-          <mxGeometry x="-147.75493421052627" y="94.8421052631579" width="106.78453947368419" height="25.94736842105263" as="geometry" />
+          <mxGeometry x="-148.75493421052627" y="94.8421052631579" width="106.78453947368419" height="25.94736842105263" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-261" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-260">
           <mxGeometry width="76.8848684210526" height="25.947368421052634" as="geometry" />
