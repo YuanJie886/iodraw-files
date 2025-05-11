@@ -52,14 +52,8 @@
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-262" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;归一化管道&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-260">
           <mxGeometry x="12.5" y="2.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-280" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-266">
-          <mxGeometry x="-182.5" y="139" width="170" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-281" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-280">
-          <mxGeometry width="122.4" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-282" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(255, 255, 255); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;张量转换&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-280">
-          <mxGeometry x="7.5" y="-7.5" width="100" height="50" as="geometry" />
+        <mxCell id="Z-dkr5yi47ZbRKAbg2k2-297" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-266">
+          <mxGeometry x="-182.5" y="139" width="122.4" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="185" width="115" height="35" as="geometry" />
