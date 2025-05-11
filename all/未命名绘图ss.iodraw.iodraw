@@ -146,13 +146,13 @@
           <mxGeometry x="-148.1966857000993" y="111.68975069252075" width="81.18601042701093" height="23.93351800554016" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-327" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
-          <mxGeometry x="-16.666757696127092" y="95.73407202216065" width="137.45779543197617" height="23.93351800554016" as="geometry" />
+          <mxGeometry x="-16.666757696127092" y="94.73407202216065" width="137.45779543197617" height="23.93351800554016" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-328" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
           <mxGeometry width="117.82096751312244" height="23.93351800554016" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-329" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Anaconda&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-327">
-          <mxGeometry x="22.459621932188963" width="90" height="30" as="geometry" />
+          <mxGeometry x="10.459621932188963" y="-2" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-330" value="" style="group" vertex="1" connectable="0" parent="Z-dkr5yi47ZbRKAbg2k2-312">
           <mxGeometry x="171.82224428997017" y="71.80055401662048" width="120.27557100297913" height="33.56277008310249" as="geometry" />
@@ -419,7 +419,7 @@
           <mxGeometry width="97.6464" height="23.139287305122497" as="geometry" />
         </mxCell>
         <mxCell id="Z-dkr5yi47ZbRKAbg2k2-325" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CUDA 11.8&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z-dkr5yi47ZbRKAbg2k2-323">
-          <mxGeometry x="1.1152424969988" y="1.6528062360801783" width="90" height="30" as="geometry" />
+          <mxGeometry x="1.1152424969988" y="-1.3471937639198217" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
