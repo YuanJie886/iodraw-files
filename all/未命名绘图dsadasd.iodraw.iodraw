@@ -137,12 +137,7 @@
           <mxGeometry x="255.5" y="460" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-148" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="493.5" width="92" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-147" target="-VjcAjLbNiZv109PIJWz-148">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="300" y="561" width="92" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
