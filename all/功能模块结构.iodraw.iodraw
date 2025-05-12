@@ -45,8 +45,11 @@
             <mxPoint x="421" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-5" target="MGuGAATXZCHZ0-n87R0T-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="170" as="sourcePoint" />
+            <mxPoint x="455" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +85,7 @@
           <mxGeometry x="439" y="230" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-16" value="AI&lt;div&gt;对&lt;/div&gt;&lt;div&gt;话&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="476" y="230" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
