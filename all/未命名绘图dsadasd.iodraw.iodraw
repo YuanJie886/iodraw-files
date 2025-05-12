@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-VjcAjLbNiZv109PIJWz-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="395" width="1183" height="190" as="geometry" />
+          <mxGeometry x="-45" y="395" width="1215" height="275" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="92" height="48" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry x="719" y="934" width="179" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-67" value="EPOCH循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="680" width="140" height="48" as="geometry" />
+          <mxGeometry x="980" y="934.5" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-68" value="训练模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1138" y="881" width="124" height="48" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="950" y="561" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-127" value="梯度&gt;1.0?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="850" y="514.5" width="141" height="141" as="geometry" />
+          <mxGeometry x="790" y="530" width="141" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
