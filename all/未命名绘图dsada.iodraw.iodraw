@@ -42,6 +42,63 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-13" value="VideoProcessor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="1042" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-14" value="摄像头初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="405" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-15" value="帧捕获" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="327" y="405" width="108" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-16" value="预处理流水线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="493" y="405" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-17" value="ONNX推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="699" y="405" width="132" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-18" value="结果信号发射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="881" y="405" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-19" value="主界面更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="405" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-20" value="异常监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="523" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-21" value="用户提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="319" y="523" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-14" target="pTwO8eYambA91oVcMhov-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-15" target="pTwO8eYambA91oVcMhov-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-16" target="pTwO8eYambA91oVcMhov-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-17" target="pTwO8eYambA91oVcMhov-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-18" target="pTwO8eYambA91oVcMhov-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-27" value="错误信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-20" target="pTwO8eYambA91oVcMhov-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
