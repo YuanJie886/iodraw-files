@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gbw1iOEaOIfaBzwrX_L_">
-    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,70 @@
         <mxCell id="pTwO8eYambA91oVcMhov-27" value="错误信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-20" target="pTwO8eYambA91oVcMhov-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-28" value="UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="150" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-29" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="150" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-30" value="CloudAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="445" y="590" width="150" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-31" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
+          <mxGeometry x="84" y="883" width="447" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-32" value="[异常处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="pTwO8eYambA91oVcMhov-31">
+          <mxGeometry x="40" width="407" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-33" value="用户输入问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-28" target="pTwO8eYambA91oVcMhov-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-34" value="加密请求(含角色设定)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-29" target="pTwO8eYambA91oVcMhov-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="416" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-35" value="结构化响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-30" target="pTwO8eYambA91oVcMhov-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-36" value="格式化显示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-29" target="pTwO8eYambA91oVcMhov-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-37" value="显示等待动画" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-29" target="pTwO8eYambA91oVcMhov-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-38" value="超时错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-30" target="pTwO8eYambA91oVcMhov-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="1019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-39" value="显示重试按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-29" target="pTwO8eYambA91oVcMhov-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="1073" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
