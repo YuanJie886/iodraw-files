@@ -10,8 +10,11 @@
         <mxCell id="pTwO8eYambA91oVcMhov-42" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pTwO8eYambA91oVcMhov-43" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pTwO8eYambA91oVcMhov-43" value="训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-44" value="预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
