@@ -49,10 +49,10 @@
           <mxGeometry x="30" y="1606" width="380" height="617" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-24" value="遍历每个EPOCH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="156" y="405" width="172" height="48" as="geometry" />
+          <mxGeometry x="61" y="390" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-25" value="切换训练模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="503" width="156" height="48" as="geometry" />
+          <mxGeometry x="440" y="450" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-26" value="获取batch数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="89" y="602" width="164" height="48" as="geometry" />
