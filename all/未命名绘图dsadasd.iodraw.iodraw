@@ -328,7 +328,7 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-136" value="参数更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44.5" y="277" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-141" value="评估流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-VjcAjLbNiZv109PIJWz-141" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-60" y="410" width="1220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-142" value="评估模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
