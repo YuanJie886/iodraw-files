@@ -124,22 +124,20 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-143" value="测试集预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252" y="-2" width="140" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-145" target="-VjcAjLbNiZv109PIJWz-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-145" value="循环是否结束" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="151" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-146" value="保存最佳模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="493" width="156" height="48" as="geometry" />
+          <mxGeometry x="244" y="340" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-147" value="导出ONNX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1138" y="493" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-148" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1380" y="493.5" width="92" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-152" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-145" target="-VjcAjLbNiZv109PIJWz-146">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-146" target="-VjcAjLbNiZv109PIJWz-147">
           <mxGeometry relative="1" as="geometry">
