@@ -53,12 +53,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-22" value="评估阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1606" width="380" height="617" as="geometry" />
-        </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-36" value="计算准确率/混淆矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1828" width="212" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-59" value="评估流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3185" y="2277" width="901" height="236" as="geometry" />
         </mxCell>
@@ -270,6 +264,9 @@
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-111" value="设置梯度裁剪1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="179" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-112" value="EPOCH循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="774" y="1800" width="140" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
