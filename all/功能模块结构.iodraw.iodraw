@@ -72,11 +72,11 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-14" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;界&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="230" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-15" value="置信度显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-15" value="置&lt;div&gt;信&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;显&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="230" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-16" value="AI&lt;div&gt;对&lt;/div&gt;&lt;div&gt;话&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="489" y="230" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
