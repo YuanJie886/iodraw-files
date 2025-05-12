@@ -46,6 +46,12 @@
         <mxCell id="pTwO8eYambA91oVcMhov-44" value="预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="510" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-45" target="pTwO8eYambA91oVcMhov-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTwO8eYambA91oVcMhov-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTwO8eYambA91oVcMhov-45" target="pTwO8eYambA91oVcMhov-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-45" value="前端展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="510" width="80" height="30" as="geometry" />
         </mxCell>
@@ -56,10 +62,10 @@
           <mxGeometry x="265" y="585" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-55" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;获&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="585" width="30" height="110" as="geometry" />
+          <mxGeometry x="325" y="585" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-56" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;获&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="585" width="30" height="110" as="geometry" />
+          <mxGeometry x="369" y="585" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-57" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;获&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="585" width="30" height="110" as="geometry" />
