@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-VjcAjLbNiZv109PIJWz-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-72.5" y="130" width="1235" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="137" y="-50" width="92" height="48" as="geometry" />
         </mxCell>
@@ -290,9 +287,6 @@
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-118" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="901" y="160" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-119" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-100" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-120" target="-VjcAjLbNiZv109PIJWz-127">
           <mxGeometry relative="1" as="geometry" />
