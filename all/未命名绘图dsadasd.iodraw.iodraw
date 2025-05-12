@@ -23,7 +23,7 @@
           <mxGeometry x="59" y="720" width="179" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-7" value="配置梯度裁剪1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="818" width="179" height="48" as="geometry" />
+          <mxGeometry x="59.5" y="790" width="179" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-1" target="-VjcAjLbNiZv109PIJWz-2">
           <mxGeometry relative="1" as="geometry">
