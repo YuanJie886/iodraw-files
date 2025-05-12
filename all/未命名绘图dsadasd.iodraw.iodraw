@@ -332,25 +332,25 @@
           <mxGeometry x="-60" y="410" width="1220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-142" value="评估模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2955" y="629" width="124" height="48" as="geometry" />
+          <mxGeometry x="177" y="464" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-143" value="测试集预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3129" y="629" width="140" height="48" as="geometry" />
+          <mxGeometry x="351" y="464" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-144" value="计算指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3319" y="629" width="124" height="48" as="geometry" />
+          <mxGeometry x="541" y="464" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-145" value="早停?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3493" y="663" width="87" height="87" as="geometry" />
+          <mxGeometry x="715" y="498" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-146" value="保存最佳模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="682" width="156" height="48" as="geometry" />
+          <mxGeometry x="872" y="517" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-147" value="导出ONNX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3881" y="682" width="133" height="48" as="geometry" />
+          <mxGeometry x="1103" y="517" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-148" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4063" y="682" width="92" height="48" as="geometry" />
+          <mxGeometry x="1285" y="517" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-142" target="-VjcAjLbNiZv109PIJWz-143">
           <mxGeometry relative="1" as="geometry">
@@ -365,7 +365,7 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-144" target="-VjcAjLbNiZv109PIJWz-145">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3468" y="654" />
+              <mxPoint x="690" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
