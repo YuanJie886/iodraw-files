@@ -16,7 +16,7 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-1" target="MGuGAATXZCHZ0-n87R0T-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-1" value="水果识别系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-1" value="水果识别系统" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="265" y="60" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1">
@@ -39,7 +39,7 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-3" target="MGuGAATXZCHZ0-n87R0T-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-3" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-3" value="训练" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-4" target="MGuGAATXZCHZ0-n87R0T-12">
