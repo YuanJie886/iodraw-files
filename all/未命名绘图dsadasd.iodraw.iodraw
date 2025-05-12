@@ -268,8 +268,8 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="450" width="870" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-110" value="设置梯度裁剪1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1089" y="2384" width="179" height="48" as="geometry" />
+        <mxCell id="-VjcAjLbNiZv109PIJWz-111" value="设置梯度裁剪1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1440" width="179" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
