@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-131" value="梯度裁切" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="509.5" y="277" width="124" height="48" as="geometry" />
+          <mxGeometry x="509.5" y="290" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-136" target="-VjcAjLbNiZv109PIJWz-142">
           <mxGeometry relative="1" as="geometry" />
@@ -335,10 +335,10 @@
           <mxGeometry x="323" y="290" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-142" value="评估模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="440" width="124" height="48" as="geometry" />
+          <mxGeometry x="323" y="493.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-143" value="测试集预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="344" y="474" width="140" height="48" as="geometry" />
+          <mxGeometry x="525" y="493" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-145" value="早停?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="741" y="474" width="87" height="87" as="geometry" />
@@ -355,12 +355,6 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-142" target="-VjcAjLbNiZv109PIJWz-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-143">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="543" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-152" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-145" target="-VjcAjLbNiZv109PIJWz-146">
