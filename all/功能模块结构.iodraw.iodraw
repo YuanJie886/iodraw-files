@@ -39,8 +39,11 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-4" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.92;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-5" target="MGuGAATXZCHZ0-n87R0T-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.92;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="167.60000000000002" as="sourcePoint" />
+            <mxPoint x="421" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-5" target="MGuGAATXZCHZ0-n87R0T-15">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +70,10 @@
           <mxGeometry x="365" y="230" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-14" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;界&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="407" y="230" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-15" value="置信度显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="439" y="230" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-16" value="AI&lt;div&gt;对&lt;/div&gt;&lt;div&gt;话&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="230" width="30" height="100" as="geometry" />
