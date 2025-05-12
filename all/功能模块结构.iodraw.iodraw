@@ -42,6 +42,12 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="266" y="230" width="30" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="230" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MGuGAATXZCHZ0-n87R0T-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="30" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
