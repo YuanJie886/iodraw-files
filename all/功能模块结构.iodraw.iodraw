@@ -81,13 +81,8 @@
         <mxCell id="MGuGAATXZCHZ0-n87R0T-15" value="置&lt;div&gt;信&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;显&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="230" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MGuGAATXZCHZ0-n87R0T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MGuGAATXZCHZ0-n87R0T-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MGuGAATXZCHZ0-n87R0T-16" value="AI&lt;div&gt;对&lt;/div&gt;&lt;div&gt;话&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="449" y="230" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
