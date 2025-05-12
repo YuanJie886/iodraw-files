@@ -14,7 +14,7 @@
           <mxGeometry x="590" y="201" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-4" value="替换最后一层全连接层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="39" y="523" width="220" height="48" as="geometry" />
+          <mxGeometry x="630" y="420" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-5" value="初始化Adam优化器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="51" y="621" width="196" height="48" as="geometry" />
