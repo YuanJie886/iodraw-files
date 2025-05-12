@@ -283,6 +283,15 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-117" value="前向传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="782" y="480" width="124" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-118" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="480" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-119" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="160" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-120" value="反向传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="561" width="124" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
