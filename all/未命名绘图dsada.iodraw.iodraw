@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="523" y="540" as="sourcePoint" />
-            <mxPoint x="523" y="585" as="targetPoint" />
+            <mxPoint x="519" y="540" as="sourcePoint" />
+            <mxPoint x="519" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -86,7 +86,7 @@
           <mxGeometry x="459" y="585" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-59" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;界&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="508" y="585" width="30" height="110" as="geometry" />
+          <mxGeometry x="504" y="585" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pTwO8eYambA91oVcMhov-60" value="置&lt;div&gt;信&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;显&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="544" y="585" width="30" height="110" as="geometry" />
