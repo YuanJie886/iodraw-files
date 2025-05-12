@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DyLqOy9nMqGRrt8on_cz">
-    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
           <mxGeometry x="30" y="1606" width="380" height="617" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-24" value="遍历每个EPOCH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="390" width="172" height="48" as="geometry" />
+          <mxGeometry x="156" y="405" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-25" value="切换训练模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="156" height="48" as="geometry" />
+          <mxGeometry x="93" y="503" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-26" value="获取batch数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="89" y="602" width="164" height="48" as="geometry" />
