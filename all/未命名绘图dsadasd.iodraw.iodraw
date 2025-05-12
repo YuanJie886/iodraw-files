@@ -119,8 +119,8 @@
             <Array as="points">
               <mxPoint x="-49" y="408" />
               <mxPoint x="-49" y="430" />
-              <mxPoint x="110" y="430" />
-              <mxPoint x="110" y="-86" />
+              <mxPoint x="60" y="430" />
+              <mxPoint x="60" y="-86" />
               <mxPoint x="150" y="-86" />
             </Array>
           </mxGeometry>
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-142" value="评估模式" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="150" y="-105" width="124" height="33" as="geometry" />
+          <mxGeometry x="90" y="-105" width="124" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-143" target="-VjcAjLbNiZv109PIJWz-145">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="149" y="240" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-148" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="166" y="432" width="92" height="48" as="geometry" />
+          <mxGeometry x="169.5" y="375" width="92" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
