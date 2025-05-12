@@ -8,7 +8,7 @@
           <mxGeometry x="103" y="210" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-2" value="加载ImageNet预训练ResNet18" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="257" height="66" as="geometry" />
+          <mxGeometry x="247" y="201" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-3" value="冻结所有卷积层参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="424" width="204" height="48" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-7" value="配置梯度裁剪1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="790" width="179" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-1" target="-VjcAjLbNiZv109PIJWz-2">
+        <mxCell id="-VjcAjLbNiZv109PIJWz-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-1" target="-VjcAjLbNiZv109PIJWz-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
