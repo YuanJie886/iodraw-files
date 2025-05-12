@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-3" value="冻结所有卷积层参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="-50" width="204" height="48" as="geometry" />
+          <mxGeometry x="-320" y="100" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-4" target="-VjcAjLbNiZv109PIJWz-5">
           <mxGeometry relative="1" as="geometry" />
