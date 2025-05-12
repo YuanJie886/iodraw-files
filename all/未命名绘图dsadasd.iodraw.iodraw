@@ -122,10 +122,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-143" value="测试集预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252" y="60" width="140" height="48" as="geometry" />
+          <mxGeometry x="252" y="-2" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-145" value="循环是否结束" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="741" y="474" width="87" height="87" as="geometry" />
+          <mxGeometry x="305" y="201" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-146" value="保存最佳模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="493" width="156" height="48" as="geometry" />
