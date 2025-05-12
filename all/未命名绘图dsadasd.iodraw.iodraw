@@ -314,7 +314,10 @@
           <mxGeometry x="950" y="590" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-127" value="梯度是否满足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="779" y="560" width="121" height="101" as="geometry" />
+          <mxGeometry x="779" y="564" width="121" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="-VjcAjLbNiZv109PIJWz-131" value="反向传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="590.5" width="124" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
