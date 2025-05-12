@@ -48,9 +48,6 @@
         <mxCell id="-VjcAjLbNiZv109PIJWz-22" value="评估阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="1606" width="380" height="617" as="geometry" />
         </mxCell>
-        <mxCell id="-VjcAjLbNiZv109PIJWz-23" value="训练循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="380" width="377" height="1153" as="geometry" />
-        </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-24" value="遍历每个EPOCH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="405" width="172" height="48" as="geometry" />
         </mxCell>
