@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-2" value="加载ImageNet预训练ResNet18" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-402.5" width="182.5" height="46" as="geometry" />
+          <mxGeometry x="-365.25" y="-46" width="182.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-3" target="-VjcAjLbNiZv109PIJWz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-3" value="冻结所有卷积层参数" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-376" y="112" width="204" height="48" as="geometry" />
+          <mxGeometry x="-376" y="40" width="146" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-VjcAjLbNiZv109PIJWz-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-VjcAjLbNiZv109PIJWz-4" target="-VjcAjLbNiZv109PIJWz-5">
           <mxGeometry relative="1" as="geometry" />
