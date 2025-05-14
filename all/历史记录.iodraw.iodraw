@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ow7s2on5WY_fClyyrz-J">
-    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkauqOIYOUD7JQzVfhNl-36" value="PyTorch" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mkauqOIYOUD7JQzVfhNl-17" source="mkauqOIYOUD7JQzVfhNl-30" target="mkauqOIYOUD7JQzVfhNl-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-37" value="D" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="1969" width="633" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-38" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/qt.png&quot;&gt; PyQt5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-37">
+          <mxGeometry x="43" y="46" width="256" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-39" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/onnx.png&quot;&gt; ONNX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-37">
+          <mxGeometry x="349" y="46" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-40" value="C" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1384" y="1960" width="634" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-41" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/pytorch.png&quot;&gt; ResNet18" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-40">
+          <mxGeometry x="43" y="46" width="256" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-42" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/artificial-intelligence.png&quot;&gt; 迁移学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-40">
+          <mxGeometry x="349" y="46" width="258" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-43" value="B" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="702" y="1960" width="632" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-44" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/opencv.png&quot;&gt; OpenCV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-43">
+          <mxGeometry x="43" y="46" width="256" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-45" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/pillow.png&quot;&gt; PIL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-43">
+          <mxGeometry x="349" y="54" width="256" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-46" value="A" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1960" width="632" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-47" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/color/48/000000/python.png&quot;&gt; Python爬虫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-46">
+          <mxGeometry x="43" y="46" width="256" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-48" value="&lt;img width=&quot;15&quot; src=&quot;https://img.icons8.com/fluency/48/000000/spider.png&quot;&gt; 百度图片API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-46">
+          <mxGeometry x="349" y="46" width="256" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="mkauqOIYOUD7JQzVfhNl-46" target="mkauqOIYOUD7JQzVfhNl-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="mkauqOIYOUD7JQzVfhNl-43" target="mkauqOIYOUD7JQzVfhNl-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="mkauqOIYOUD7JQzVfhNl-40" target="mkauqOIYOUD7JQzVfhNl-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
