@@ -70,6 +70,72 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-17" value="技术路线" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="647" height="1461" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-18" value="D" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-17">
+          <mxGeometry x="43" y="1283" width="577" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-19" value="PyQt5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-18">
+          <mxGeometry x="43" y="58" width="102" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-20" value="ONNX Runtime" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-18">
+          <mxGeometry x="195" y="58" width="164" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-21" value="多线程推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-18">
+          <mxGeometry x="410" y="58" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-22" value="A" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-17">
+          <mxGeometry x="211" y="46" width="241" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-23" value="Python爬虫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-22">
+          <mxGeometry x="58" y="43" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-24" value="Scrapy框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-22">
+          <mxGeometry x="59" y="141" width="139" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-25" value="反爬破解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-22">
+          <mxGeometry x="67" y="240" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-26" value="B" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-17">
+          <mxGeometry x="211" y="458" width="240" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-27" value="尺寸归一化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-26">
+          <mxGeometry x="58" y="43" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-28" value="色彩标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-26">
+          <mxGeometry x="58" y="141" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-29" value="数据增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-26">
+          <mxGeometry x="66" y="240" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-30" value="C" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-17">
+          <mxGeometry x="207" y="871" width="249" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-31" value="ResNet18" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-30">
+          <mxGeometry x="69" y="43" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-32" value="迁移学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-30">
+          <mxGeometry x="70" y="141" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-33" value="Adam优化器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mkauqOIYOUD7JQzVfhNl-30">
+          <mxGeometry x="58" y="240" width="149" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-34" value="百度图片API" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mkauqOIYOUD7JQzVfhNl-17" source="mkauqOIYOUD7JQzVfhNl-22" target="mkauqOIYOUD7JQzVfhNl-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-35" value="OpenCV/PIL" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mkauqOIYOUD7JQzVfhNl-17" source="mkauqOIYOUD7JQzVfhNl-26" target="mkauqOIYOUD7JQzVfhNl-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkauqOIYOUD7JQzVfhNl-36" value="PyTorch" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mkauqOIYOUD7JQzVfhNl-17" source="mkauqOIYOUD7JQzVfhNl-30" target="mkauqOIYOUD7JQzVfhNl-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
